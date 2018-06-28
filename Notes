@@ -1,0 +1,77 @@
+Hola Hola
+
+-----First thing first in python everything is an Object, yes man u read it right.
+Every fucking thing is an object even int, float, boolean are objects.
+Hence size, range, maxvalue concept not applicable for python
+
+# In python we don't have switch statement and do while loop
+
+#########################  In Python we have only 33 Reserved Words  #################
+
+True
+False
+None (In java its null)
+and
+or
+not
+is
+if
+else
+elif
+while
+for  (foreach loop is also same as for loop in python)
+break
+continue
+return
+in
+yield
+try
+except (means catch block)
+finally
+raise  (In java we have throw)
+assert
+import
+from
+as
+class
+def (we use def before declaring methods)
+pass
+global (to declare global variables we use global variables)
+nonlocal
+lambdas
+del (anything we can delete with del keyword)
+with
+
+
+
+######################  In python we have 14 DataTypes #####################
+
+int
+float
+complex (use for complex calculations)
+bool (ita boolean)
+str  (its String)
+bytes
+bytearray
+range (to represent range of Numbers)
+list (are mutable)
+tuple (are im mutable)
+set (list of values without duplicates)
+frozenset (as name sad can't be modified)
+dict (It is Dictionary in java we have Map and Hashmap)
+None
+
+
+###################### Python provides some inbuilt functions #####################################
+
+print()   just to print
+type()  to know the type
+id()   to print the address of the object
+
+
+
+
+
+
+
+
